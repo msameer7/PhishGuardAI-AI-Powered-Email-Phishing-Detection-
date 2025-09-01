@@ -20,13 +20,13 @@ Each email scan provides a clear label (Phishing/Not Phishing), a detailed reaso
 * Delivered as a Windows installer (setup.exe) that bundles all dependencies and models, allowing easy installation and use on any PC.
 
 #### Technical Stack
-Python 3.x
-PyQt5 / PyQtWebEngine (GUI)
-Ollama (Local LLM integration)
-OpenAI API (Cloud LLM integration)
-dotenv (Environment/config management)
-PyInstaller (EXE packaging)
-Inno Setup (Windows installer creation)
+* Python 3.x
+*  PyQt5 / PyQtWebEngine (GUI)
+* Ollama (Local LLM integration)
+* OpenAI API (Cloud LLM integration)
+* dotenv (Environment/config management)
+* PyInstaller (EXE packaging)
+* Inno Setup (Windows installer creation)
 
 ### How It Works
 ### Email Loading:
